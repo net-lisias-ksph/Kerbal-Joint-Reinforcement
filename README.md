@@ -24,3 +24,5 @@ Licensed under the [GPLv3](https://www.gnu.org/licenses/gpl-3.0.en.html).
 * [Rudolf Meier](https://forum.kerbalspaceprogram.com/index.php?/profile/176740-rudolf-meier/) - Next
 	+ [Forum](https://forum.kerbalspaceprogram.com/index.php?/topic/184206-kerbal-joint-reinforcement-next/)
 	+ [HitHub](https://github.com/meirumeiru/Kerbal-Joint-Reinforcement)
+* [KSP-RO](https://github.com/KSP-RO)
+	+ [GitHub](https://github.com/KSP-RO/Kerbal-Joint-Reinforcement-Continued)
