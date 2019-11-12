@@ -1,5 +1,9 @@
 # Kerbal Joint Reinforcement :: Change Log
 
+* 2019-0503: 4.0.0 (Rudolf Meier) for KSP 1.4
+	+ the original version I made based on the v3.4, with a lot of modifications
+	+ but not including the latest implementations
+	+ [ works with KSP 1.4 and later ]
 * 2019-1017: 3.5.0 (ksp-ro) for KSP 0ersions starting from 1.3
 	+ Features
 	+ Integrated settings into stock UI
