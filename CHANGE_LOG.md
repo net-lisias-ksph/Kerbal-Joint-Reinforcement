@@ -1,5 +1,8 @@
 # Kerbal Joint Reinforcement :: Change Log
 
+* 2019-1017: 3.5.0 (ksp-ro) for KSP 0ersions starting from 1.3
+	+ Features
+	+ Integrated settings into stock UI
 * 2019-0603: 3.4.1 (ksp-ro) for KSP 0ersions 1.3.x through 1.7.x
 	+ Features
 	+ Added basic support for robotic parts
