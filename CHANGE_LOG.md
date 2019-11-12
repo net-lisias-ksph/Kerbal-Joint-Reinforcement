@@ -3,6 +3,9 @@
 * 2017-0522: 3.3.2 (ferram4) for KSP 1.2.2
 	+ Bugfixes
 		- Fix multijoints breaking IR joints and any other exempted parts from moving
+* 2017-0522: 3.3.2 (ferram4) for KSP 1.2.2
+	+ Bugfixes
+		- Fix multijoints breaking IR joints and any other exempted parts from moving
 * 2016-1029: 3.3.1 (ferram4) for KSP 1.2
 ```
 v3.3.1  
