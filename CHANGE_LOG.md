@@ -1,5 +1,8 @@
 # Kerbal Joint Reinforcement :: Change Log
 
+* 2019-0611: 4.0.12 (Rudolf Meier) for KSP 1.4
+	+ api update for mod compatibility
+	+ [ works with KSP 1.4 and later ]
 * 2019-0607: 4.0.11 (Rudolf Meier) for KSP 1.4
 	+ api update for mod compatibility
 	+ [ works with KSP 1.4 and later ]
