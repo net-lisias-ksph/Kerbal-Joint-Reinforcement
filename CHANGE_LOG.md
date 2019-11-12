@@ -1,5 +1,7 @@
 # Kerbal Joint Reinforcement :: Change Log
 
+* 2018-1229: 3.3.5 (ksp-ro) for KSP 1.4.5
+	+ If physics jolts cause a vessel with launch clamps to to shift out of PRELAUNCH then put it back in PRELAUNCH. (and reset launch / MET timers)
 * 2018-1227: 3.3.4 (ksp-ro) for KSP 1.4.5
 	+ Recompile and versioning update for KSP 1.4.5
 * 2017-0724: 3.3.3 (ferram4) for KSP 1.3.0
