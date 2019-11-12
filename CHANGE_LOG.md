@@ -1,5 +1,7 @@
 # Kerbal Joint Reinforcement :: Change Log
 
+* 2018-1227: 3.3.4 (ksp-ro) for KSP 1.4.5
+	+ Recompile and versioning update for KSP 1.4.5
 * 2017-0724: 3.3.3 (ferram4) for KSP 1.3.0
 	+ Features
 		- Recompile against KSP 1.3, ensure CompatChecker compatibility with 1.3
