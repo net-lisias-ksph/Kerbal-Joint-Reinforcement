@@ -1,5 +1,10 @@
 # Kerbal Joint Reinforcement :: Change Log
 
+* 2019-0422: 3.4.0 (ksp-ro) for KSP 0ersions 1.3.x through 1.7.x
+	+ Features
+	+ Recompile for use in KSP 1.3.x through 1.7.x (thanks @siimav)
+	+ Launch Clamps can now be set to completely rigid (thanks @siimav)
+	+ Removed compatibility checker (thanks @siimav)
 * 2018-1229: 3.3.5 (ksp-ro) for KSP 1.4.5
 	+ If physics jolts cause a vessel with launch clamps to to shift out of PRELAUNCH then put it back in PRELAUNCH. (and reset launch / MET timers)
 * 2018-1227: 3.3.4 (ksp-ro) for KSP 1.4.5
