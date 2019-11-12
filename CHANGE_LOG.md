@@ -1,5 +1,10 @@
 # Kerbal Joint Reinforcement :: Change Log
 
+* 2019-0825: 4.0.15 (Rudolf Meier) for KSP 1.4.0
+	+ bugfix
+	+ split into multiple versions for latest ksp version (4.1.x) and compatible ksp versions (4.0.x) to get better performance in the latest ksp version
+	+ new visualization of joint instability in debug mode
+	+ [ works with KSP 1.4.0 and later ]
 * 2019-0713: 4.0.14 (Rudolf Meier) for KSP 1.4 PRE-RELEASE
 	+ fix for dlc robotics
 	+ improvement
